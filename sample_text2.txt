@@ -1,0 +1,1 @@
+Text should be one-sentence-per-line, with empty lines between documents.
